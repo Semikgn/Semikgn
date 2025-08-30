@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Semi Kağan</h1>
 <h3 align="center">Entrepreneur | Engineer</h3>
 
-- 🔭 I’m currently working on **android projects.**
+- 🔭 I’m currently working on **software and entrepreneurship projects.**
 
 - 🌱 I’m currently learning **kotlin language.**
 
