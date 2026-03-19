@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Semi Kağan</h1>
 <h3 align="center">Entrepreneur | Engineer</h3>
 
-- 🚀 Work on software products that solve real problems.**
+- 🚀 Work on software products that solve real world problems.**
 
-- 🤖 Building skills in AI, machine learning and automation.**
+- 🤖 Building skills in AI, backend and system design.**
 
 - 🧠 Build mobile & backend applications with Flutter and Python.**
 
